@@ -27,3 +27,5 @@ plt.legend(loc='best')
 plt.xlabel('Time (s)')
 plt.grid()
 plt.show()
+
+# 微分方程式
